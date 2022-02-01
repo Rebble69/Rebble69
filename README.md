@@ -1,4 +1,4 @@
-# Hello, Im Rebble! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# <img src="https://c.tenor.com/ycMSXy3Y_OAAAAAi/pog-champ-pog.gif" width="30px"> Hello, Im Rebble! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## 📊 My Github Stats
    <br/>
